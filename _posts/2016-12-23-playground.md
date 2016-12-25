@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes
+title: Concept Storage
 category: Notes
 tags: [notes, todo, ideas]
 comments: false
