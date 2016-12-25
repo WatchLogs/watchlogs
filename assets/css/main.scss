@@ -90,6 +90,10 @@ hr {
 	justify-content: space-between;
 	align-items: baseline;
 	padding-bottom: 50px;
+	background: url(https://goo.gl/so7mNT)no-repeat;
+    background-size: contain;
+    background-position-y: 15px;
+    background-position-x: 220px;
 	@media screen and (max-width: $br) {
 		display: block;
 	}
