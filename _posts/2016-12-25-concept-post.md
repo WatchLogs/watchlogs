@@ -3,7 +3,7 @@ layout: post
 title: First Post
 category: Notes
 tags: [first, post, ideas]
-comments: false
+comments: true
 ---
 <h4 style="font-style:italic; font-weight:bold">{text/.intro->not title}</h4>
 
