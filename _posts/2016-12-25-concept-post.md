@@ -2,7 +2,7 @@
 layout: post
 title: Concept Post
 category: Notes
-tags: [notes, todo, ideas]
+tags: [first, post, ideas]
 comments: false
 ---
 <h4 style="font-style:italic; font-weight:bold">/.intro->not title</h4>
