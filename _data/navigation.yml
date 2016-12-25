@@ -1,13 +1,13 @@
-- title: /about
+- title: /about-
   url: /about
 
-- title: /projects
+- title: /projects-
   url: /projects
 
-- title: /blog
+- title: /blog-
   url: /
   
-- title: /contact
+- title: /contact-
   url: /contact
 
 
