@@ -14,35 +14,3 @@ comments: false
 </ul>
 
 
-
-
-<h3>Data Sets</h3>
-<ul>
-  <li>1. San Francisco street names</li>
-  <li>2. San Francisco 311 incident reports (location, type, category)</li>
-  <li>3. US Constitution</li>
-  <li>4. World constitutions</li>
-  <li>5. Craigslist real estate listings</li>
-  <li>6. Zillow real estate data</li>
-  <li>7. Architecture of SF</li>
-
-<h3>App Ideas</h3>
-  <ul>
-    <li>Immigration - sanctuary city info/know your rights</li>
-    <li>Quick lawyer search and message</li>
-    <li>
-  </li>
-
-<h3>Site To Do</h3>
-<ul>
-  <li>Continuous feed of Fitbit data</li>
-  <li>Livenote - publish live Evernote feed, or some ability to push notes from Notes app to a notes page here</li>
-  <li>Bookmarking system but with highlighted text. A tool for highlighting text and automatically saving and pushing it to this site</li>
-</ul>
-
-<h3>To Learn</h3>
-<ul>
-  <li>HTML - Emmett</li>
-  <li>D3.js + associated libraries</li>
-  <li>Statistics and data analysis</li>
-</ul>
