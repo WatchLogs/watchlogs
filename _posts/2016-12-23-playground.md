@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Concept Storage
+title: Concept Post
 category: Notes
 tags: [notes, todo, ideas]
 comments: false
 ---
-<h4 style="font-style:italic; font-weight:bold">Random notes, ideas, sketches, etc. Updated frequently.</h4>
+<h4 style="font-style:italic; font-weight:bold">/.intro->not title</h4>
 
-<h3>Data Vis</h3>
+<h3>title</h3>
 <ul>
-  <li>2016/12/20: Textual analysis of legislative documents including sentiment analysis, word count and usage, etc. Possible relationships between drafter's party affiliation, etc.</li>
-  <li>2016/12/23: Word bubbles - US constitution, other constitutions, real estate listings, SF street names</li>
+  <li>details</li>
+  <li>details</li>
 </ul>
 
 
