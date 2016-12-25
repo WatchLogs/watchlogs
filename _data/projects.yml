@@ -2,7 +2,7 @@
   image: "/assets/img/projects/usconstitution2.png"
   date: "Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
-  link: "http://sbrks.github.io/constitutions/"
+  link: "https://watchlogs.github.io/constitution"
   description: "A text visualization of the world's constitutions"
 - name: "Data: A Love Story"
   image: "/assets/img/projects/april16.png"
