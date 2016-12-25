@@ -8,7 +8,7 @@ comments: false
 <h4 style="font-style:italic; font-weight:bold">{text/.intro->not title}</h4>
 
 <h3>{title}</h3>
-<ul>{list}
+<ul><br>{%list%}
   <li>{details}</li>
   <li>details</li>
 </ul>
