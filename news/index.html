@@ -1,1 +1,22 @@
-news
+
+---
+layout: default
+---
+
+<div class="header">
+    <a style="color:#000;" href="/"><h1>&gt;_log</h1></a>
+
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+
+<div class="post__back">
+    	<a href="/">&lt;-- Home</a>
+</div>
+<iframe src="https://goo.gl/VSpKBu" style="width: 100%; border-radius: 20px; height: 35vh;" frameborder="0" allowfullscreen></iframe>
