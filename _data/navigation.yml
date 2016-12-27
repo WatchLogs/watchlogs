@@ -10,15 +10,15 @@
 - title: /contact-
   url: /contact
   
-- title: /news-
-  url: /news
+#- title: /news-
+ # url: /news
 
 
 
 ##all unlinked site pages (for reference)
 
-# - title: notes
-#   url: /notes
+ - title: news
+   url: /notes
 
 # - title: streetnames
 #   url: /streetnames
