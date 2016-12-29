@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Map
 category: Notes
 tags: [first, post, ideas]
 comments: true
